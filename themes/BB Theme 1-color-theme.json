@@ -1,9 +1,13 @@
 {
 	"name": "midnight_coffee_bb",
 	"displayName": "Midnight Coffee Dreams",
-	"author": "Brendon Berndt",
+	"author": {
+		"name": "Brendon Berndt",
+		"email": "brendon.berndt@dataengineroom.onmicrosoft.com",
+		"url": "https://www.linkedin.com/in/brendon-berndt-4529201a/"
+	},
 	"$schema": "vscode://schemas/color-theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#201612",
