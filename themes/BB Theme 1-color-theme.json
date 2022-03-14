@@ -1,13 +1,22 @@
 {
 	"name": "midnight_coffee_bb",
 	"displayName": "Midnight Coffee Dreams",
+	"description": "A dark theme designed to be easy on the eyes"
 	"author": {
 		"name": "Brendon Berndt",
 		"email": "brendon.berndt@dataengineroom.onmicrosoft.com",
 		"url": "https://www.linkedin.com/in/brendon-berndt-4529201a/"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"coffee",
+		"brown",
+		"python theme"
+	],
 	"$schema": "vscode://schemas/color-theme",
-	"version": "1.2.1",
+	"version": "1.2.2",
+	"publisher": "ThePhoneticFox",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#201612",
