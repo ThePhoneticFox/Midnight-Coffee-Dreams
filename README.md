@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "bb-theme-1"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Midnight Coffee Dreams
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Midnight Coffee Dreams - A dark theme designed to be easy on the eyes.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Screenshot of Python file](/pics/Screenshot%202022-03-14%20194912.jpg)
