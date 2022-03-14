@@ -1,18 +1,26 @@
 {
-    "name": "bb-theme-1",
-    "displayName": "BB Theme 1",
-    "description": "BB Theme 1",
-    "version": "0.0.1",
+    "name": "midnight-coffee-dreams",
+    "displayName": "Midnight Coffee Dreams",
+    "description": "A dark theme designed to be easy on the eyes",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.65.0"
     },
     "categories": [
         "Themes"
     ],
+    "publisher": "ThePhoneticFox",
+    "keywords": [
+		"theme",
+		"dark theme",
+		"coffee",
+		"brown",
+		"python theme"
+	],
     "contributes": {
         "themes": [
             {
-                "label": "BB Theme 1",
+                "label": "Midnight Coffee Dreams",
                 "uiTheme": "vs-dark",
                 "path": "./themes/BB Theme 1-color-theme.json"
             }
