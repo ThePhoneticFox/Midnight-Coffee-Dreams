@@ -15,8 +15,6 @@
 		"python theme"
 	],
 	"$schema": "vscode://schemas/color-theme",
-	"version": "1.2.2",
-	"publisher": "ThePhoneticFox",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#201612",
@@ -372,7 +370,7 @@
 				"comment.block.html"
 			],
 			"settings": {
-				"foreground": "#801376"
+				"foreground": "#806436"
 			}
 		},
 		{
@@ -581,7 +579,7 @@
 				"support.function.builtin"
 			],
 			"settings": {
-				"foreground": "#ABE9B3",
+				"foreground": "#F5E0DC",
 				"fontStyle": "italic"
 			}
 		},	
